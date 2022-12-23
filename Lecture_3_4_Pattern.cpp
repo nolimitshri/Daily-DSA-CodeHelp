@@ -110,8 +110,8 @@ int main(){
     // }
 
     // Q9
-    int i = 1;
-    int n = 4;
+    // int i = 1;
+    // int n = 4;
     // while(i <= n){
     //     int j = 1;
     //     while(j <= n){
@@ -180,6 +180,7 @@ int main(){
 
     // pattern with spaces
     // Q15
+    int i = 1, n = 5;
     // while(i <= n){
     //     int j = 1;
     //     int spaces = n - i;
